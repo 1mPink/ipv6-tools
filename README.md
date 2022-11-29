@@ -106,6 +106,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://lg.a2b-internet.com
 - https://lg.anexia-it.com/lg
 - http://lg.avelacom.ru
+- https://ping.sx/
 
 ## List of subnets with CIDR
 
